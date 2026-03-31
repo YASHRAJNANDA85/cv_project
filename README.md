@@ -48,5 +48,5 @@ The saved json file has information on how blurry an image is, the higher the va
 }
 ```
 
-This is based upon the blogpost [Blur Detection With Opencv](https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/) by YASH RAJ NANDA.
+
 
