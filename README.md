@@ -2,7 +2,6 @@
 Blur Detection works using the total variance of the laplacian of an
 image, this provides a quick and accurate method for scoring how blurry
 an image is.
-
 This package only depends on numpy and opencv, to install them run, 
 
 ```
@@ -47,6 +46,6 @@ The saved json file has information on how blurry an image is, the higher the va
     "threshold": 100.0
 }
 ```
-
+![image-source](https://github.com/YASHRAJNANDA85/cv_project/blob/73ca3e2c9edaf86462f2956cbd1c10a4ad6deaa0/demo.png)
 
 
